@@ -1,0 +1,50 @@
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	src: url('../fonts/HelveticaNeueCyr-Bold.ttf');
+	src: local('☺'), url('../fonts/HelveticaNeueCyr-Bold.woff') format('woff'), url('../fonts/HelveticaNeueCyr-Bold.ttf') format('truetype'), url('../fonts/HelveticaNeueCyr-Bold.eot') format('eot');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Gilroy';
+	src: url('../fonts/Gilroy-Medium.ttf');
+	src: local('☺'), url('../fonts/Gilroy-Medium.woff') format('woff'), url('../fonts/Gilroy-Medium.ttf') format('truetype'), url('../fonts/Gilroy-Medium.eot') format('eot');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'MullerLight';
+	src: url('../fonts/MullerThin.ttf');
+	src: local('☺'), url('../fonts/MullerThin.woff') format('woff'), url('../fonts/MullerThin.ttf') format('truetype'), url('../fonts/MullerThin.eot') format('eot');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'MullerBold';
+	src: url('../fonts/MullerExtraBold.ttf');
+	src: local('☺'), url('../fonts/MullerExtraBold.woff') format('woff'), url('../fonts/MullerExtraBold.ttf') format('truetype'), url('../fonts/MullerExtraBold.eot') format('eot');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Muller';
+	src: url('../fonts/MullerNarrow-Light.ttf');
+	src: local('☺'), url('../fonts/MullerNarrow-Light.woff') format('woff'), url('../fonts/MullerNarrow-Light.ttf') format('truetype'), url('../fonts/MullerNarrow-Light.eot') format('eot');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Averta';
+	src: url('../fonts/AvertaDemoPE-Regular.ttf');
+	src: local('☺'), url('../fonts/AvertaDemoPE-Regular.woff') format('woff'), url('../fonts/AvertaDemoPE-Regular.ttf') format('truetype'), url('../fonts/AvertaDemoPE-Regular.eot') format('eot');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Gilroy';
+	src: url('../fonts/Gilroy-Medium.ttf');
+	src: local('☺'), url('../fonts/Gilroy-Medium.woff') format('woff'), url('../fonts/Gilroy-Medium.ttf') format('truetype'), url('../fonts/Gilroy-Medium.eot') format('eot');
+	font-weight: bold;
+	font-style: normal;
+}
+
